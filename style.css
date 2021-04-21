@@ -79,7 +79,7 @@ video {
 .nav #brand {
       float: right;
       display: block;
-      margin-right: 40px;
+      margin-left: 40px;
       line-height: 80px;
       font-weight: bold;
       text-transform: uppercase;
